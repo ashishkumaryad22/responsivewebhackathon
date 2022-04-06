@@ -252,7 +252,7 @@ body{
  */
 
 .food-type{
-    padding-top: 3.25rem;
+    padding-top: 1.25rem;
 }
 .food-type ul li{
     font-size: 1rem;
@@ -294,6 +294,8 @@ body{
     border: none;
     background-color: transparent;
     border-radius: 0.9375rem;
+        text-align: center;
+
 }
 .explore-food .card img{
     border-radius: 0.9375rem;
@@ -304,7 +306,7 @@ body{
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary-color);
-    padding-bottom: 1rem;
+    padding-bottom: .2rem;
     border-bottom: 0.0625rem solid #eee;
 }
 .explore-food .card span del{
